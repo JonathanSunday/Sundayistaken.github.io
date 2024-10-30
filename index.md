@@ -35,13 +35,13 @@ I have been a lifelong technology enthusiats which has led me to develop a passi
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Firewall-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>  
-
+  
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>  
-
+  
 ### Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -49,14 +49,14 @@ I have been a lifelong technology enthusiats which has led me to develop a passi
     <img src="https://img.shields.io/badge/-Android-3DDC84?&style=for-the-badge&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/-iOS-999999?&style=for-the-badge&logo=apple&logoColor=white" />
 </div>  
-
+  
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-IT%20Support%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>  
-
+  
 # Projects
 - SOC Automation
   - Deployed SIEM via Azure
