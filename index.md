@@ -57,7 +57,14 @@ I have been a lifelong technology enthusiats which has led me to develop a passi
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>  
 
-### Header 3
+# Projects
+- SOC Automation
+  - Deployed SIEM via Azure
+- Utilized Wireshark to analyze HTTP/S and RDP traffic
+- Incident report analysis using the NIST CSF
+- Cybersecurity audit
+- Set up a Honeypot with Pentbox
+
 
 ```js
 // Javascript code with syntax highlighting.
