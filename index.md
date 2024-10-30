@@ -29,19 +29,19 @@ I have been a lifelong technology enthusiats which has led me to develop a passi
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pentbox-006400?&style=for-the-badge&logoColor=white" />
 </div>
-    
+  
 ## Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_Firewall-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
-    
+
 ## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
-    
+
 ## Operating Systems
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
