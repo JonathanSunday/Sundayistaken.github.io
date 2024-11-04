@@ -11,7 +11,7 @@ I'm a cybersecurity professional with hands-on experience through various projec
 
 ## Objective
 
-I have been a lifelong technology enthusiats which has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) or GRC analyst role.
+I have been a lifelong technology enthusiast which has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) or GRC analyst role.
 
 ## Skills
 
