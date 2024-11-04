@@ -17,10 +17,10 @@ I have been a lifelong technology enthusiats which has led me to develop a passi
 
 |Skill      | Associated Project|
 |:-------------|:------------------|
-| SIEM Implementation and Log Analysis| <a href="https://google.com">SOC Automation</a> |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| SIEM Implementation and Log Analysis| SOC Automation with SIEM and MISP Integration in Azure |
+| Network Traffic Analysis, Packet Analysis | Utilized Wireshark to analyze HTTP/S and RDP traffic  |
+| Security Auditing, Compliance Assessment | Security Auditing, Compliance Assessment |
+| Threat Detection, Honeypot Deployment and Monitoring | Honeypot with Pentbox |
 
 ## Tools
 
@@ -53,108 +53,17 @@ I have been a lifelong technology enthusiats which has led me to develop a passi
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-IT%20Support%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>  
   
 # Projects
 - SOC Automation
-  - Deployed SIEM via Azure
+  - Deployed SIEM via Azure while utilizing MISP
 - Utilized Wireshark to analyze HTTP/S and RDP traffic
 - Incident report analysis using the NIST CSF
 - Cybersecurity audit
 - Set up a Honeypot with Pentbox
 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
