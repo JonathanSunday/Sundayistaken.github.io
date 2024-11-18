@@ -17,7 +17,7 @@ I have been a lifelong technology enthusiast which has led me to develop a passi
 
 |Skill      | Associated Project|
 |:-------------|:------------------|
-| SIEM Implementation and Log Analysis| SOC Automation with SIEM and MISP Integration in Azure |
+| SIEM Implementation and Log Analysis| <a href="https://github.com/JonathanSunday/SOC-Lab/tree/main">SOC Automation with SIEM and MISP Integration in Azure</a>|
 | Network Traffic Analysis, Packet Analysis | Utilized Wireshark to analyze HTTP/S and RDP traffic  |
 | Security Auditing, Compliance Assessment | Security Auditing, Compliance Assessment |
 | Threat Detection, Honeypot Deployment and Monitoring | Honeypot with Pentbox |
@@ -59,7 +59,7 @@ I have been a lifelong technology enthusiast which has led me to develop a passi
 </div>  
   
 # Projects
-- SOC Automation
+- <a href="https://github.com/JonathanSunday/SOC-Lab/tree/main">SOC Automation with SIEM and MISP Integration in Azure</a>
   - Deployed SIEM via Azure while utilizing MISP
 - Utilized Wireshark to analyze HTTP/S and RDP traffic
 - Incident report analysis using the NIST CSF
