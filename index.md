@@ -21,6 +21,7 @@ I have been a lifelong technology enthusiast which has led me to develop a passi
 | Network Traffic Analysis, Packet Analysis| Utilized Wireshark to analyze HTTP/S and RDP traffic|
 | Security Auditing, Compliance Assessment | <a href="https://github.com/JonathanSunday/Security-Audit-and-Compliance-Assessment/tree/main">Security Auditing and Compliance Assessment</a>|
 | Threat Detection, Honeypot Deployment and Monitoring | Honeypot with Pentbox |
+| Participated in national-level cybersecurity competitions | National Cyber League and US Cyber Games |
 
 ## Tools
 
