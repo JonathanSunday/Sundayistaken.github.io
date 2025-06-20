@@ -11,7 +11,7 @@ I'm a cybersecurity professional with hands-on experience through various projec
 
 ## Objective
 
-I have been a lifelong technology enthusiast which has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) or GRC analyst role.
+I have been a lifelong technology enthusiast, which has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) or GRC analyst role.
 
 ## Skills
 
@@ -53,8 +53,10 @@ I have been a lifelong technology enthusiast which has led me to develop a passi
   
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL%204%20Foundation-551A8B?&style=for-the-badge&logo=Accenture&logoColor=white" />
 <img src="https://img.shields.io/badge/-IT%20Support%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity%20Professional-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>  
